@@ -27,21 +27,11 @@ Este projeto foi criado para fornecer insights estratégicos sobre as vendas da 
 
 ---
 
-## 📂 Estrutura do Repositório  
-/dashboard-vendas │-- 📊 dashboard.pbix (Arquivo Power BI) │-- 📄 README.md (Este arquivo) │-- 📊 imagens/ (Capturas do dashboard) │-- 📂 dados/ (Arquivos CSV e SQL usados na análise)
-
-
----
-
-## 📸 Capturas de Tela  
-📌 *Adicione prints do seu dashboard aqui para visualização rápida*  
-
----
 
 ## 📥 Como Usar  
 1. **Baixe o arquivo** `dashboard.pbix` no repositório.  
 2. **Abra no Power BI Desktop**.  
-3. **Explore os relatórios interativos** utilizando os filtros disponíveis.  
+  
 
 
 
